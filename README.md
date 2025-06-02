@@ -6,7 +6,7 @@ Also, in the past, I am in cybersecurity and penetration testing.
 
 
 ## My favorite tools and technologies ⚙️
-[![My Skills](https://skillicons.dev/icons?theme=dark&perline=10&i=c,cpp,arduino,cmake,py,pytorch,tensorflow,raspberrypi,linux,debian,kali,bash,neovim,vim,vscode,windows,git,github,gitlab,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?theme=dark&perline=10&i=c,cpp,arduino,git,cmake,py,pytorch,tensorflow,raspberrypi,linux,debian,kali,bash,neovim,vim,vscode,windows,github,gitlab,obsidian)](https://skillicons.dev)
 
 -------------------
 
