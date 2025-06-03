@@ -11,4 +11,4 @@ Also, in the past, I am in cybersecurity and penetration testing.
 -------------------
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="N's Stats" src="https://github-readme-stats.vercel.app/api/?username=Naster17&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="N's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naster17&langs_count=8&layout=compact&theme=github_dark&hide_border=true&exclude_repo=NetHunter-Kernels&hide=perl,csharp" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="N's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naster17&langs_count=8&layout=compact&theme=github_dark&hide_border=true&exclude_repo=NetHunter-Kernels&hide=perl" height="192px"/></a>
