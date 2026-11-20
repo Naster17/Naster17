@@ -11,4 +11,4 @@ Also see my personal blog https://naster17.xyz/
 
 -------------------
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="N's Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=Naster17&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=prs" height="180px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="N's Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Naster17&langs_count=8&layout=compact&theme=github_dark&hide_border=true&exclude_repo=NetHunter-Kernels&hide=perl,astro,typescript,mdx,scss,javascript" height="180px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Naster's GitHub Stats" src="assets/stats.svg" height="180px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Languages" src="assets/top-langs.svg" height="180px"/></a>
