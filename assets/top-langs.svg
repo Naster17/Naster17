@@ -15,24 +15,24 @@
         <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
       </mask>
       <g mask="url(#rect-mask)">
-      <rect x="0.00" y="0" width="238.83" height="8" fill="#555555"/>
-      <rect x="238.83" y="0" width="4.61" height="8" fill="#f34b7d"/>
-      <rect x="243.44" y="0" width="1.62" height="8" fill="#6E4C13"/>
-      <rect x="245.06" y="0" width="1.40" height="8" fill="#3572A5"/>
-      <rect x="246.46" y="0" width="0.99" height="8" fill="#89e051"/>
-      <rect x="247.45" y="0" width="0.82" height="8" fill="#dea584"/>
-      <rect x="248.27" y="0" width="0.49" height="8" fill="#427819"/>
-      <rect x="248.76" y="0" width="0.40" height="8" fill="#3A4E3A"/>
+      <rect x="0.00" y="0" width="238.77" height="8" fill="#555555"/>
+      <rect x="238.77" y="0" width="4.64" height="8" fill="#f34b7d"/>
+      <rect x="243.41" y="0" width="1.62" height="8" fill="#6E4C13"/>
+      <rect x="245.03" y="0" width="1.41" height="8" fill="#3572A5"/>
+      <rect x="246.45" y="0" width="0.99" height="8" fill="#89e051"/>
+      <rect x="247.43" y="0" width="0.82" height="8" fill="#dea584"/>
+      <rect x="248.25" y="0" width="0.49" height="8" fill="#427819"/>
+      <rect x="248.74" y="0" width="0.40" height="8" fill="#3A4E3A"/>
       </g>
     </g>
     <g transform="translate(25, 25)">
       <g transform="translate(0, 0)">
         <circle cx="5" cy="6" r="5" fill="#555555"/>
-        <text x="15" y="10" class="lang-name">C 95.53%</text>
+        <text x="15" y="10" class="lang-name">C 95.51%</text>
       </g>
       <g transform="translate(0, 25)">
         <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
-        <text x="15" y="10" class="lang-name">C++ 1.84%</text>
+        <text x="15" y="10" class="lang-name">C++ 1.85%</text>
       </g>
       <g transform="translate(0, 50)">
         <circle cx="5" cy="6" r="5" fill="#6E4C13"/>
@@ -40,7 +40,7 @@
       </g>
       <g transform="translate(0, 75)">
         <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-        <text x="15" y="10" class="lang-name">Python 0.56%</text>
+        <text x="15" y="10" class="lang-name">Python 0.57%</text>
       </g>
       <g transform="translate(150, 0)">
         <circle cx="5" cy="6" r="5" fill="#89e051"/>
