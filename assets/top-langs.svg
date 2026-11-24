@@ -15,24 +15,24 @@
         <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
       </mask>
       <g mask="url(#rect-mask)">
-      <rect x="0.00" y="0" width="238.74" height="8" fill="#555555"/>
-      <rect x="238.74" y="0" width="4.66" height="8" fill="#f34b7d"/>
-      <rect x="243.40" y="0" width="1.62" height="8" fill="#6E4C13"/>
-      <rect x="245.03" y="0" width="1.42" height="8" fill="#3572A5"/>
-      <rect x="246.45" y="0" width="0.99" height="8" fill="#89e051"/>
-      <rect x="247.43" y="0" width="0.82" height="8" fill="#dea584"/>
-      <rect x="248.25" y="0" width="0.49" height="8" fill="#427819"/>
-      <rect x="248.74" y="0" width="0.40" height="8" fill="#3A4E3A"/>
+      <rect x="0.00" y="0" width="238.66" height="8" fill="#555555"/>
+      <rect x="238.66" y="0" width="4.73" height="8" fill="#f34b7d"/>
+      <rect x="243.39" y="0" width="1.62" height="8" fill="#6E4C13"/>
+      <rect x="245.01" y="0" width="1.42" height="8" fill="#3572A5"/>
+      <rect x="246.43" y="0" width="0.98" height="8" fill="#89e051"/>
+      <rect x="247.42" y="0" width="0.82" height="8" fill="#dea584"/>
+      <rect x="248.23" y="0" width="0.49" height="8" fill="#427819"/>
+      <rect x="248.73" y="0" width="0.41" height="8" fill="#3A4E3A"/>
       </g>
     </g>
     <g transform="translate(25, 25)">
       <g transform="translate(0, 0)">
         <circle cx="5" cy="6" r="5" fill="#555555"/>
-        <text x="15" y="10" class="lang-name">C 95.50%</text>
+        <text x="15" y="10" class="lang-name">C 95.46%</text>
       </g>
       <g transform="translate(0, 25)">
         <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
-        <text x="15" y="10" class="lang-name">C++ 1.86%</text>
+        <text x="15" y="10" class="lang-name">C++ 1.89%</text>
       </g>
       <g transform="translate(0, 50)">
         <circle cx="5" cy="6" r="5" fill="#6E4C13"/>

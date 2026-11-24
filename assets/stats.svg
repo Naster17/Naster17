@@ -1,6 +1,6 @@
 <svg width="467" height="170" viewBox="0 0 467 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">Naster's GitHub Stats, Rank: A</title>
-  <desc id="descId">Total Stars Earned: 135, Total Commits in 2026: 15564, Total Issues: 404, Contributed to (last year): 23</desc>
+  <desc id="descId">Total Stars Earned: 135, Total Commits in 2026: 15650, Total Issues: 406, Contributed to (last year): 23</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
     @supports(-moz-appearance: auto) { .header { font-size: 15.5px; } }
@@ -18,7 +18,7 @@
   <g data-testid="main-card-body" transform="translate(0, 55)">
     <g data-testid="rank-circle" transform="translate(390.5, 35)">
       <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
-      <circle class="rank-circle" cx="-10" cy="8" r="40" stroke-dashoffset="202.74"/>
+      <circle class="rank-circle" cx="-10" cy="8" r="40" stroke-dashoffset="202.65"/>
       <text class="rank-text" x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">A</text>
     </g>
       <g transform="translate(25, 0)">
@@ -33,14 +33,14 @@
           <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
         </svg>
         <text class="stat" x="25" y="12.5">Total Commits (2026):</text>
-        <text class="stat" x="219.01" y="12.5">15,564</text>
+        <text class="stat" x="219.01" y="12.5">15,650</text>
       </g>
       <g transform="translate(25, 50)">
         <svg class="icon" viewBox="0 0 16 16" width="16" height="16">
           <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
         </svg>
         <text class="stat" x="25" y="12.5">Total Issues:</text>
-        <text class="stat" x="219.01" y="12.5">404</text>
+        <text class="stat" x="219.01" y="12.5">406</text>
       </g>
       <g transform="translate(25, 75)">
         <svg class="icon" viewBox="0 0 16 16" width="16" height="16">
